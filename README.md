@@ -1,4 +1,7 @@
-# YoloV3
+# Object detection using YoloV3
+## Classes:
+- Person 
+- Car
 ________
 YoloV3 Simplified for training on Colab with custom dataset. 
 
