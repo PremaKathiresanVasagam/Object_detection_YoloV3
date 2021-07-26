@@ -65,7 +65,8 @@ car
 14. Run this command `python train.py --data data/customdata/custom.data --batch 10 --cache --cfg cfg/yolov3-custom.cfg --epochs 3 --nosave`
 
 **Results**
-After training for 100 Epochs, results look awesome!
+After training for 44 Epochs...
+![image](https://github.com/PremaKathiresanVasagam/Object_detection_YoloV3/blob/master/output/Output_test_img_1.jpg)
 
 
 Reference and Credits:
