@@ -74,4 +74,3 @@ After training for 44 Epochs...
 Reference and Credits:
 
 Full credit goes to [this](https://github.com/ultralytics/yolov3)
-For much more detailed explaination and features, please refer to the original [source](https://github.com/ultralytics/yolov3). 
