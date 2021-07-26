@@ -70,7 +70,7 @@ After training for 25 Epochs...
 <br> 
 ![image](https://github.com/PremaKathiresanVasagam/Object_detection_YoloV3/blob/master/output/Output_test_img_1.jpg)
 
-Need to train for 100 epochs - constraint on GPU resouces and Time.
+Need to train for 100 epochs - constraint on GPU resources and Time.
 
 
 Reference and Credits:
