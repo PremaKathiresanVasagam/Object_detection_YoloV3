@@ -65,10 +65,12 @@ car
 14. Run this command `python train.py --data data/customdata/custom.data --batch 10 --cache --cfg cfg/yolov3-custom.cfg --epochs 3 --nosave`
 
 **Results**
-After training for 44 Epochs...
+After training for 25 Epochs...
 <br>
 <br> 
 ![image](https://github.com/PremaKathiresanVasagam/Object_detection_YoloV3/blob/master/output/Output_test_img_1.jpg)
+
+Need to train for 100 epochs - constraint on GPU resouces and Time.
 
 
 Reference and Credits:
