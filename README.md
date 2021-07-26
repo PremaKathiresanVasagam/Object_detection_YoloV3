@@ -66,6 +66,8 @@ car
 
 **Results**
 After training for 44 Epochs...
+<br>
+<br> 
 ![image](https://github.com/PremaKathiresanVasagam/Object_detection_YoloV3/blob/master/output/Output_test_img_1.jpg)
 
 
